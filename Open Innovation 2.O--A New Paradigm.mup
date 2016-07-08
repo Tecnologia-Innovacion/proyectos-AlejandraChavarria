@@ -1,0 +1,97 @@
+{
+  "title": "Open Innovation 2.O:\nA New Paradigm",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Technological innovation accounted for 75% of\nGDP growth in the USA since the end of World War II",
+      "id": 3,
+      "attr": {
+        "position": [
+          321.5,
+          -215,
+          3
+        ],
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "20 snapshots ",
+      "id": 18,
+      "ideas": {}
+    },
+    "-1": {
+      "title": "what is it? ",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": " is a new paradigm based on principles of integrated collaboration, co-created shared value,\ncultivated innovation ecosystems, unleashed exponential technologies, and extraordinarily rapid adoption. We believe\nthat innovation can be a discipline practiced by many, rather\nthan an art mastered by few",
+          "id": 5,
+          "attr": {
+            "position": [
+              313,
+              -205,
+              1
+            ],
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "invention + adoption = innovation. ",
+          "id": 10,
+          "attr": {
+            "position": [
+              171,
+              77,
+              2
+            ],
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Open innovation 2.O is not the panacea, but it adds an essential\ncomponent to the traditional innovation approaches and it\naccelerates collective learni",
+          "id": 17
+        }
+      },
+      "attr": {
+        "position": [
+          258.5,
+          -18,
+          4
+        ],
+        "style": {}
+      }
+    },
+    "-11": {
+      "title": "perspectives ",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "government ",
+          "id": 12
+        },
+        "2": {
+          "title": "Citizen / User ",
+          "id": 14
+        },
+        "3": {
+          "title": "Academic ",
+          "id": 15
+        },
+        "4": {
+          "title": "Industrial ",
+          "id": 16
+        }
+      },
+      "attr": {
+        "position": [
+          82.5,
+          148,
+          5
+        ],
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
